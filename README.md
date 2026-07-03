@@ -37,6 +37,26 @@
 如果你是 Mac 用户，可以直接双击：
 
 ```text
+setup.command
+run.command
+```
+
+推荐第一次先双击：
+
+```text
+setup.command
+```
+
+它会自动：
+
+- 检查 `python3` 是否已安装
+- 检查主脚本是否可运行
+- 准备 `output/` 目录
+- 告诉你下一步怎么做
+
+通过后，再双击：
+
+```text
 run.command
 ```
 
@@ -52,6 +72,8 @@ run.command
 1. 右键 `run.command`
 2. 点“打开”
 3. 再确认一次打开
+
+如果是第一次运行 `setup.command`，处理方式相同。
 
 ## 命令行使用
 
@@ -131,6 +153,5 @@ python3 demand_collector.py run-config \
 
 ## 后续可继续增强
 
-- 再补一个 `setup.command`，自动检查 Python 和环境
 - 再补 Windows 版 `start.bat`
 - 做成带按钮的桌面 GUI 或网页版本
