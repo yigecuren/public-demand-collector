@@ -1,0 +1,24 @@
+{
+  "defaults": {
+    "limit": 10,
+    "page_size": 10,
+    "timeout": 45,
+    "manual_inputs": [
+      "data/manual_template.csv"
+    ]
+  },
+  "topics": [
+    {
+      "topic": "AI副业需求",
+      "queries": [
+        "副业",
+        "AI副业",
+        "小红书资料售卖"
+      ],
+      "platforms": [
+        "xiaohongshu",
+        "bilibili"
+      ]
+    }
+  ]
+}

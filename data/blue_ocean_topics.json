@@ -1,0 +1,96 @@
+{
+  "defaults": {
+    "limit": 18,
+    "page_size": 10,
+    "timeout": 45,
+    "manual_inputs": [
+      "工具/需求收集工具/data/manual_template.csv"
+    ]
+  },
+  "topics": [
+    {
+      "topic": "女性拍照场景AI产品需求",
+      "queries": [
+        "一部手机 自拍 补光 app",
+        "补光 自拍 一起 app",
+        "返图 拍照 app",
+        "拍照 氛围感 工具"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "家庭照护记录提醒AI产品需求",
+      "queries": [
+        "喂奶 记录 app",
+        "老人 起夜 提醒 app",
+        "吃药 打卡 提醒 app",
+        "照护 记录 工具"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "步骤很多的日常小麻烦AI产品需求",
+      "queries": [
+        "出差 清单 生成器",
+        "旅行 收纳 清单 app",
+        "搬家 整理 清单 工具",
+        "忘带东西 提醒 app"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "空间优化方案生成AI产品需求",
+      "queries": [
+        "宿舍 收纳 方案 生成器",
+        "租房 布置 生成器",
+        "工位 整理 方案 工具",
+        "厨房 收纳 规划 工具"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "宠物陪伴记录AI产品需求",
+      "queries": [
+        "猫咪 记录 app",
+        "宠物 喂食 提醒 小程序",
+        "遛狗 打卡 app",
+        "宠物 夜间 观察 app"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "情绪表达与关系维护AI产品需求",
+      "queries": [
+        "哄女朋友 话术 生成器",
+        "高情商 回复 工具",
+        "节日 送礼 推荐 app",
+        "冷场 破冰 话术 app"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "学习工作提效AI产品需求",
+      "queries": [
+        "会议 纪要 整理 工具",
+        "面试 复盘 生成器",
+        "简历 修改 建议 app",
+        "资料 整理 提炼 工具"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    }
+  ]
+}

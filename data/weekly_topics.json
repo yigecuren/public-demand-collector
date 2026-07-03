@@ -1,0 +1,45 @@
+{
+  "defaults": {
+    "limit": 18,
+    "page_size": 10,
+    "timeout": 45,
+    "manual_inputs": [
+      "工具/需求收集工具/data/manual_template.csv"
+    ]
+  },
+  "topics": [
+    {
+      "topic": "AI副业需求",
+      "queries": [
+        "AI副业",
+        "AI赚钱",
+        "AI资料售卖"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "资料售卖需求",
+      "queries": [
+        "资料售卖",
+        "小红书虚拟资料",
+        "副业资料包"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    },
+    {
+      "topic": "下沉市场工作流需求",
+      "queries": [
+        "本地商家获客",
+        "AI智能体",
+        "同城引流"
+      ],
+      "platforms": [
+        "xiaohongshu"
+      ]
+    }
+  ]
+}
